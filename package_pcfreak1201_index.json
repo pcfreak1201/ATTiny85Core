@@ -23,7 +23,7 @@
           "size": "6937",
           "boards": [
             {"name": "ATtiny45"},
-            {"name": "ATtiny85"},
+            {"name": "ATtiny85"}
           ],
 
           "toolsDependencies": []
