@@ -17,10 +17,10 @@
           "help": {
             "online": ""
           },
-          "url": "https://codeload.github.com/pcfreak1201/picoCore/tar.gz/v0.3.1",
-          "archiveFileName": "picoCore-0.3.1.tar.gz",
-          "checksum": "SHA-256:e737940cf9db7f17f36193ded12427abf29580a9aabefd02e87b4b23578a2962",
-          "size": "6937",
+          "url": "https://codeload.github.com/pcfreak1201/picoCore/tar.gz/V0.3.beta.1",
+          "archiveFileName": "picoCore-0.3.beta.1.tar.gz",
+          "checksum": "SHA-256:41676a2e43239a2bd4fd89c053195f4c0415afb4d20ea862ee0fff1cf7d6449e",
+          "size": "12252",
           "boards": [
             {"name": "ATtiny45"},
             {"name": "ATtiny85"}
