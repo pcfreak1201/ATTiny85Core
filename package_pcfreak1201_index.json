@@ -1,0 +1,35 @@
+{
+  "packages": [
+    {
+      "name": "picoCore",
+      "maintainer": "pcfreak1201",
+      "websiteURL": "https://github.com/pcfreak1201/picoCore",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "picoCore",
+          "architecture": "avr",
+          "version": "0.3.1",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/pcfreak1201/picoCore/archive/picoCore-0.3.1.tar.gz",
+          "archiveFileName": "picoCore-0.3.1.tar.gz",
+          "checksum": "SHA-256:e737940cf9db7f17f36193ded12427abf29580a9aabefd02e87b4b23578a2962",
+          "size": "6937",
+          "boards": [
+            {"name": "ATtiny45"},
+            {"name": "ATtiny85"},
+          ],
+
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
