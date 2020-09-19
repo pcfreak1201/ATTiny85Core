@@ -1,6 +1,7 @@
 # ATTiny85Core
-Absolute minimalistic t85 core with serial i/o but no USB nor bootloader, based on picoCore, together with picoUART.
-For easier testing and using I prepare a .json-File for the Arduino IDE integration.
+Absolute minimalistic t85 (+t45) core @8MHz internal, with serial I/O but no USB nor bootloader. It's based on picoCore, together with picoUART.
+For easier testing and using I prepared a .json-file for the Arduino IDE integration:
+https://github.com/pcfreak1201/ATTiny85Core/raw/master/package_pcfreak1201_index.json
 
 ## Why no USB?
 
