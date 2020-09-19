@@ -16,5 +16,5 @@ So, no need for (V-)USB-Interface at all.
 ## Why no bootloader?
 
 I often develop ideas on a cheap Nano clone with ATMega328 and CH340, because it's fast and easy.
-But when I design my own PCBs the the bare chip, I try to reduce the size to a t85 or in the newer days t1604.
-If you have 16k FLASH, there is no need to cut all comfort and you needn't to use or reserve ISP. But if you have only 8k and 5 pins, you get another view ... 
+But when I design my own PCBs with the bare chip, I try to reduce the size to a t85 or in the newer days t1604 and may be in the future t3204 when it is released ;-).
+If you have 16k FLASH, there is no need to cut all comfort and you needn't to use or reserve ISP pins. But if you have only 8k and 5 pins, you get another view ... 
