@@ -17,21 +17,16 @@
           "help": {
             "online": ""
           },
-          "url": "https://codeload.github.com/pcfreak1201/picoCore/tar.gz/V0.3.beta.1",
-          "archiveFileName": "picoCore-0.3.beta.1.tar.gz",
-          "checksum": "SHA-256:41676a2e43239a2bd4fd89c053195f4c0415afb4d20ea862ee0fff1cf7d6449e",
-          "size": "12252",
+          "url": "https://github.com/pcfreak1201/ATTiny85Core/raw/master/picoCore.zip",
+          "archiveFileName": "picoCore.zip",
+          "checksum": "SHA-256:1ccb9a5adb64664795fd7a91719ad418d1ce3c83b91d6dc1e35fe9513273a74b",
+          "size": "155878",
           "boards": [
             {"name": "ATtiny45"},
             {"name": "ATtiny85"}
           ],
 
           "toolsDependencies": [ 
-            {
-              "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
-            },
             {
               "packager": "arduino",
               "name": "avrdude",
